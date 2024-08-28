@@ -43,10 +43,10 @@ El proyecto se encuentra en desarrollo activo. Actualmente, cuenta con las funci
 
 Puedes acceder al proyecto de dos formas:
 
-1. **Demo en Vivo**: [Enlace a la demo del proyecto](https://tuusuario.github.io/encriptador)
+1. **Demo en Vivo**: [Enlace a la demo del proyecto](https://vallador.github.io/encriptador)
 2. **Repositorio**: 
    ```
-   git clone https://github.com/tuusuario/encriptador.git
+   git clone https://github.com/vallador/encriptador.git
    cd encriptador
    ```
 
@@ -65,7 +65,7 @@ Este proyecto fue desarrollado individualmente como parte de un desafío educati
 
 ## 💻 Desarrolladores del Proyecto
 
-[Tu Nombre](https://github.com/tuusuario)
+[Deivid Calderón](https://github.com/vallador)
 
 ## 📄 Licencia
 
