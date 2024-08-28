@@ -1,6 +1,6 @@
 # 🔐 Encriptador de Texto
 
-![Portada del Proyecto](https://via.placeholder.com/800x400?text=Encriptador+de+Texto)
+![Portada del Proyecto](https://github.com/vallador/Encriptador/blob/5e445bb299ae26b0852b5a4647fd087ed2337ecc/images/preview.png)
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)](https://github.com/tuusuario/encriptador)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
