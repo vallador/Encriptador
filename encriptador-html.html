@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <section class="input-section">
+            <textarea id="inputText" placeholder="Ingrese el texto aquí"></textarea>
+            <p id="validationMessage">Solo letras minúsculas y sin acentos</p>
+            <div class="buttons">
+                <button id="encryptBtn">Encriptar</button>
+                <button id="decryptBtn">Desencriptar</button>
+            </div>
+        </section>
+        
+        <section class="output-section">
+            <div id="outputArea">
+                <img src="placeholder-image.png" alt="Imagen placeholder" id="placeholderImage">
+                <p id="outputMessage">Ningún mensaje fue encontrado</p>
+                <textarea id="outputText" readonly></textarea>
+                <button id="copyBtn" style="display: none;">Copiar</button>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Creado por Deivid calderon </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
